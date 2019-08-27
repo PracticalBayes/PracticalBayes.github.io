@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Practical Bayes
+email:       suriyadeepan.r@gmail.com
+author:      Suriyadeepan Ramamoorthy
+description: "Bayesian Methods and Probabilistic Programming for Machine Learners"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "PracticalBayes.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
